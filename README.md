@@ -1,2 +1,2 @@
-# .github
-Our branding is here
+# ![Coeymans Chameleons logo](profile.png) Coeymans Chameleons (team #32497)
+Hi! We're an FTC team at [Ravena Innovation Station](https://ravenainnovationstation.org).
